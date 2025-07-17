@@ -7,4 +7,4 @@ Console.Write("What is your last name? ");
 string lastName = Console.ReadLine();
 
 // Display the formatted output
-Console.WriteLine($"Your name is {lastName}, {firstName} {lastName}.");
+Console.WriteLine($"Your name is  {firstName} {lastName}.");
