@@ -1,0 +1,14 @@
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.AssemblyInfoInputs.cache
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.AssemblyInfo.cs
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.csproj.CoreCompileInputs.cache
+C:\Users\y\OneDrive\Documents\week01\bin\Debug\net8.0\week01.exe
+C:\Users\y\OneDrive\Documents\week01\bin\Debug\net8.0\week01.deps.json
+C:\Users\y\OneDrive\Documents\week01\bin\Debug\net8.0\week01.runtimeconfig.json
+C:\Users\y\OneDrive\Documents\week01\bin\Debug\net8.0\week01.dll
+C:\Users\y\OneDrive\Documents\week01\bin\Debug\net8.0\week01.pdb
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.dll
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\refint\week01.dll
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.pdb
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\week01.genruntimeconfig.cache
+C:\Users\y\OneDrive\Documents\week01\obj\Debug\net8.0\ref\week01.dll
